@@ -1,0 +1,3 @@
+const ADD_CITY = "ADD_CITY";
+const FETCH_CITIES = "FETCH_CITIES";
+export { ADD_CITY, FETCH_CITIES, };

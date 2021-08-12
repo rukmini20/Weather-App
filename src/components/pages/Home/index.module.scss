@@ -1,0 +1,17 @@
+@import "../../../styles/index.scss";
+
+.background {
+  // padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  :global(.MuiCard-root) {
+    height: 550px;
+    width: 420px;
+  }
+  .weatherImg {
+    height: 50px;
+    width: 50px;
+  }
+}
